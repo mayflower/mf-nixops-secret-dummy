@@ -1,0 +1,3 @@
+{
+  icecastPassword = "hackme";
+}
