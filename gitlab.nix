@@ -1,0 +1,4 @@
+{
+  databasePassword = "test";
+  ldap = { };
+}
